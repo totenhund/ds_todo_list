@@ -10,4 +10,4 @@ user.
 ![alt text](2.png)
 
 ### Test this out:
-http://totenhund.pythonanywhere.com/
+https://totenhund.pythonanywhere.com/
